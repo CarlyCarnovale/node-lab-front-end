@@ -1,0 +1,18 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid darkolivegreen;
+    color: lightslategray;
+    width: 25%;
+    padding: 10px;
+    margin-left: 35%;
+    font-style: bold;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    border: 5px dotted darkolivegreen;
+}
+
